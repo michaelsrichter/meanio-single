@@ -1,7 +1,7 @@
 heat_template_version: 2013-05-23
 
 description: |
-  New: This is a Heat template to deploy a multiple Linux servers running MongoDB in
+  New..... This is a Heat template to deploy a multiple Linux servers running MongoDB in
   a replicaset.
 
 parameters:
